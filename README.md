@@ -32,11 +32,9 @@ Install Docker on your system according to your operating system:
     - Open terminal.
     - Install Docker using the package manager for your distribution:
 ####   Mac:
-      Download and install Docker Desktop from the official website.
-      https://docs.docker.com/desktop/install/mac-install/
+Download and install Docker Desktop from the official website: https://docs.docker.com/desktop/install/mac-install/
       
 ####   Windows:
-      Download and install Docker Desktop from the official website.
-      https://docs.docker.com/desktop/install/windows-install/
+Download and install Docker Desktop from the official website: https://docs.docker.com/desktop/install/windows-install/
 
 
