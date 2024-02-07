@@ -29,8 +29,8 @@ Run the following command to install the required Python packages: `pip install 
 Install Docker on your system according to your operating system:
 
 ####   Linux:
-    - Open terminal.
-    - Install Docker using the package manager for your distribution:
+Download and install Docker Desktop from the official website: https://docs.docker.com/desktop/install/linux-install/
+
 ####   Mac:
 Download and install Docker Desktop from the official website: https://docs.docker.com/desktop/install/mac-install/
       
